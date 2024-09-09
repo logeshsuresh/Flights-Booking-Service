@@ -10,6 +10,8 @@ The Flights Booking Service is responsible for handling flight bookings. It ensu
 - Integration with Flights Service: Interacts with the Flights Service to verify flight availability and details.
 - RabbitMQ Integration: Sends messages to a RabbitMQ queue for ticketing notifications, ensuring asynchronous processing and real-time updates.
 
+## High Level Design
+![High Level Design](https://github.com/logeshsuresh/Flights-Booking-Service/blob/master/Flights-HLD.png)
 
 ## Setup
 Follow these steps to set up the project locally:
