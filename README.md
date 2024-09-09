@@ -36,6 +36,7 @@ In the root directory, create a .env file and add the required environment varia
 PORT=4000
 FLIGHT_SERVICE='http://flights_service:3000'
 ```
+Make sure you have already setup API-Gateway & Flights-Service.
 
 #### 4. Initialize Sequelize
 
@@ -89,7 +90,7 @@ The src folder contains all the source code for the project:
 - `utils/`: Provides helper methods and utility functions.
 
 ## Usage
-To start the API Gateway, use:
+To start the Booking Service, use:
 
 ```
 npm start
