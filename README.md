@@ -25,7 +25,7 @@ git clone https://github.com/logeshsuresh/Flights-Booking-Service.git
 Navigate to the project directory and install the required dependencies:
 
 ```
-cd Flights-Service
+cd Flights-Booking-Service
 npm install
 ```
 
